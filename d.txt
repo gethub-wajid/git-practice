@@ -1,1 +1,3 @@
 Added file 'd' to brranch1 branch
+
+Updated content in the file
